@@ -1,4 +1,4 @@
-const API_KEY = "ISI_DENGAN_API_KEY_MU"; // <<< Ganti dengan API-mu
+const API_KEY = "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"; // <<< Ganti dengan API-mu
 const chatbox = document.getElementById("chatbox");
 const input = document.getElementById("userInput");
 
